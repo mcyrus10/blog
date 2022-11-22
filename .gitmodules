@@ -1,0 +1,3 @@
+[submodule "mcd4_blog/public"]
+	path = mcd4_blog/public
+	url = https://github.com/mcyrus10/mcyrus10.github.io.git
